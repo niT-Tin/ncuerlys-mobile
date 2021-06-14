@@ -1,0 +1,66 @@
+.loginpane{
+    position: absolute;
+    top: 0;
+    width: 400px;
+    height: 900px;
+    background-image: url('../../static/PlayerLoginPage/u2.png');
+}
+
+.title{
+    position: absolute;
+    font-size: 40px;
+    top: 30px;
+    right: 23px;
+}
+
+.flt{
+    position: relative;
+    top: 140px;
+    left: 50px;
+    width: 300px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: rgba(105,105,105,0.9);
+}
+
+.ac,.pd{
+    position: relative;
+    top: 100px;
+    /* left: 90px; */
+    right: -70px;
+    border-radius: 20px;
+    width: 170px;
+    background-color: rgba(78,69,56,0.9);
+    border-bottom: 2px solid #e39600;
+}
+
+.acpic{
+    position: relative;
+    width: 35px;
+    height: 35px;
+    right: 98px;
+    top: 145px;
+}
+
+.pdpic{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    right: 140px;
+    top: 200px;
+}
+
+.lgn{
+    position: relative;
+    font-size: 40px;
+    color: #fff;
+    top: 70px;
+}
+
+.lgnbtn{
+    position: relative;
+    width: 90px;
+    border-radius: 20px;
+    top: 140px;
+    right: -5px;
+}
