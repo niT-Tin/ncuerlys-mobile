@@ -12,11 +12,6 @@ export default new Router({
       component: login => require(["@/components/Login"], login)
     },
     {
-      path: "/test",
-      name: "test",
-      component: tt => require(["@/components/Test"], tt)
-    },
-    {
       path: "/login",
       name: "login1",
       component: login => require(["@/components/Login"], login)
